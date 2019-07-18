@@ -15,7 +15,7 @@
     | Office办公 | 微软HLINK.DLL超链接对象库缓冲区溢出漏洞 | [链接地址](http://www.tippingpoint.com/security/advisories/TSRT-06-10.html) | 
     | 防病毒扫描 | 卡巴斯基防病毒引擎CHM文件解析器缓冲区溢出漏洞 | [链接地址](http://www.idefense.com/intelligence/vulnerabilities/display.php?id=318)| 
     | 媒体播放器 | Winamp m3u解析栈溢出漏洞 | [链接地址](http://www.idefense.com/intelligence/vulnerabilities/display.php?id=377)| 
-    | Web浏览器 | 向量标记语言中的漏洞，可允许远程代码执行 | [链接地址](http://www.microsoftcom/technet/security/Bulletin/MS06-055.mspx) | 
+    | Web浏览器 | 向量标记语言中的漏洞，可允许远程代码执行 | [链接地址](http://www.microsoft.com/technet/security/Bulletin/MS06-055.mspx) | 
     | 存档工具 | WinZip MIME解析器缓冲区溢出漏洞 | [链接地址](http://www.idefense.com/intelligence/vulnerabilities/display.php?id=76)|
     | 邮件服务器 | 微软Exchange TNEF解码器漏洞 | [链接地址](http://www.microsoftcom/technet/security/Bulletin/MS06-003.mspx)| 
 
