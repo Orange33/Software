@@ -17,7 +17,7 @@
     | 媒体播放器 | Winamp m3u解析栈溢出漏洞 | [链接地址](http://www.idefense.com/intelligence/vulnerabilities/display.php?id=377)| 
     | Web浏览器 | 向量标记语言中的漏洞，可允许远程代码执行 | [链接地址](http://www.microsoft.com/technet/security/Bulletin/MS06-055.mspx) | 
     | 存档工具 | WinZip MIME解析器缓冲区溢出漏洞 | [链接地址](http://www.idefense.com/intelligence/vulnerabilities/display.php?id=76)|
-    | 邮件服务器 | 微软Exchange TNEF解码器漏洞 | [链接地址](http://www.microsoftcom/technet/security/Bulletin/MS06-003.mspx)| 
+    | 邮件服务器 | 微软Exchange TNEF解码器漏洞 | [链接地址](http://www.microsoft.com/technet/security/Bulletin/MS06-003.mspx)| 
 
 * 大多数的目标应用都属于这些分类中的某一个类别。某些应用则由于它们的次要功能而同时属于多个分类。例如，许多防病毒扫描器也包括解压缩文件的库，以允许它们作为存档工具。还有一些内容扫描器声称可以为情色内容分析图像文件。这些程序也可以被认为是图像查看器 。应用程序共享公共库是很普遍的，在这种情况下一个单独的漏洞可以影响多个应用。例如，考虑一下在微软的安全公告MS06－055中详细描述的漏洞，它既可以影响Internet Explorer也可以影响Outlook。
 
